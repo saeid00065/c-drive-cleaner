@@ -1,0 +1,9 @@
+# Only source and documentation belong in this repository.
+# Local storage scans contain private file paths.
+/*
+!/.gitignore
+!/README.md
+!/README.txt
+!/*.ps1
+!/Start Cleaner.cmd
+!/Start Cleaner.vbs
